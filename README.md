@@ -1,7 +1,7 @@
 <h1 align="center">DEEPASHREE G NAIK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepashree-g-naik-blue)](inkedin.com/in/deepashree-g-naik-190733249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepashree-blue)](inkedin.com/in/deepashree-g-naik-190733249/)
 [![Email](https://img.shields.io/badge/Email-deepashreegnaik18gmail.com-green)](mailto:deepashreegnaik18@gmail.com)
 [![Codechef](https://img.shields.io/badge/codechef-Deepashree-yellow)](https://www.codechef.com/users/deepashree_456)
   
