@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-deepashreegnaik18gmail.com-green)](mailto:deepashreegnaik18@gmail.com)
 [![Codechef](https://img.shields.io/badge/codechef-Deepashree-yellow)](https://www.codechef.com/users/deepashree_456)
   
-## Skills 
+## Skills
 
 - Technical :
   
